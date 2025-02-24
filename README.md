@@ -29,7 +29,7 @@
 
 ```shell
 npx create-next-app@latest 
-pnpm add @solana/web3.js@1 @solana/wallet-adapter-react @solana/wallet-adapter-base @solana/wallet-adapter-wallets @solana/wallet-adapter-react-ui
+pnpm add @solana/web3.js @solana/wallet-adapter-react @solana/wallet-adapter-base @solana/wallet-adapter-wallets @solana/wallet-adapter-react-ui
 pnpm dlx shadcn@latest init
 ```
 
